@@ -15,10 +15,10 @@ This is an identification tag based on SVG, It can quickly generate various labe
 
 #### Github Repos
 
-[![Twitter](https://badging.tk/github/repos/yakeing/php_session)](https://badging.now.sh)
+[![Repos](https://badging.tk/github/repos/yakeing/php_session)](https://badging.now.sh)
 
 #### Github Contributors
 
-[![Twitter](https://badging.tk/github/contributors/yakeing/php_session)](https://badging.now.sh)
+[![Contributors](https://badging.tk/github/contributors/yakeing/QRCode?opacity=1)](https://badging.now.sh)
 
 ---
