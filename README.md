@@ -16,4 +16,7 @@
 
 [![Contributors](https://badging.tk/github/contributors/yakeing/QRCode)](https://badging.now.sh)
 
+#### Npm Package
+
+[![Contributors](https://badging.tk/npm/package/https.js)](https://badging.now.sh)
 ---
