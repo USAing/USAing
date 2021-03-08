@@ -19,6 +19,6 @@ This is an identification tag based on SVG, It can quickly generate various labe
 
 #### Github Contributors
 
-[![Contributors](https://badging.tk/github/contributors/yakeing/QRCode?opacity=1)](https://badging.now.sh)
+[![Contributors](https://badging.tk/github/contributors/yakeing/QRCode)](https://badging.now.sh)
 
 ---
