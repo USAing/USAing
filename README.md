@@ -21,6 +21,3 @@
 [![Contributors](https://badging.tk/npm/package/https.js)](https://badging.tk)
 
 ---
-
-#### Npm Package
-<object data="https://codecov.io/gh/yakeing/get_header/branch/master/graphs/tree.svg" type="image/svg+xml"></object>
