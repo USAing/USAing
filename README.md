@@ -16,7 +16,7 @@
 
 #### Github Contributors
 
-[![Contributors](https://badge.eu.org/github/contributors/yakeing/QRCode)](https://badge.eu.org)
+[![Contributors](https://badge.eu.org/github/contributors/USAing/USAing)](https://badge.eu.org)
 
 #### Npm Package
 
