@@ -8,6 +8,8 @@
 
 [![Github](https://badge.eu.org/static/1FYbZECgs3V3zRx6P7yAu2nCDXP2DHpwt8/55A?opacity=1&icon=bitcoin&iconcolor=F9A136)](https://badge.eu.org)
 
+[![Github](https://badge.eu.org/static/Sponsor/f6f8fa?icon=heart&iconcolor=ea4aaa&stroke=d1d9e0&textcolor=555)](https://badge.eu.org)
+
 #### Github Repos
 
 [![Repos](https://badge.eu.org/github/repos/USAing/QRCode)](https://badge.eu.org)
