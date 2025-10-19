@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Twitter](https://badge.eu.org/static/Star/fcfcfc/8.7K/fcfcfc?icon=watch&iconcolor=000&stroke=d5d5d5&textcolor=000&bubble=1)](https://badge.eu.org)
 [![Twitter](https://badge.eu.org/static/USAing/555?opacity=1&icon=twitter&iconcolor=3bc8f4)](https://badge.eu.org)
-[![Github](https://badge.eu.org/static/USAing/555?opacity=1&icon=github&iconcolor=3bc8f4)](https://badge.eu.org)
 [![Github](https://badge.eu.org/static/Sponsor/f6f8fa?icon=heart&iconcolor=ea4aaa&stroke=d1d9e0&textcolor=555)](https://badge.eu.org)
+[![Github](https://badge.eu.org/static/USAing/555?opacity=1&icon=github&iconcolor=3bc8f4)](https://badge.eu.org)
+[![Twitter](https://badge.eu.org/static/Star/fcfcfc/8.7K/fcfcfc?icon=watch&iconcolor=000&stroke=d5d5d5&textcolor=000&bubble=1)](https://badge.eu.org)
 
 [![Google](https://badge.eu.org/static/USAing%40gmail.com/2196f3?opacity=1&icon=google&iconcolor=dc4a3d)](https://badge.eu.org)
 
