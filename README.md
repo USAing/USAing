@@ -6,6 +6,7 @@
 [![Twitter](https://badge.eu.org/static/Star/fcfcfc/8.7K/fcfcfc?icon=watch&iconcolor=000&stroke=d5d5d5&textcolor=000&bubble=1)](https://badge.eu.org)
 
 [![Google](https://badge.eu.org/static/USAing%40gmail.com/2196f3?opacity=1&icon=google&iconcolor=dc4a3d)](https://badge.eu.org)
+[![Arrow](https://badge.eu.org/static/Github/6cd/USAing/555/README/f82?radius=0&arrow=1)](https://badge.eu.org)
 
 [![Github](https://badge.eu.org/static/1FYbZECgs3V3zRx6P7yAu2nCDXP2DHpwt8/55A?opacity=1&icon=bitcoin&iconcolor=F9A136)](https://badge.eu.org)
 
